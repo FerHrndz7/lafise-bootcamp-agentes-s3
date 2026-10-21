@@ -1,0 +1,5 @@
+# Librerías de clúster para la Sesión 3 (DBR 17.3 LTS)
+databricks-sdk>=0.94.0
+databricks-openai>=0.10.0
+reportlab>=4.0
+faker>=25.0.0
